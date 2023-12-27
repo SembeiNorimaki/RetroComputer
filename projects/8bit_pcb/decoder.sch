@@ -16374,71 +16374,71 @@ Based on the following sources:
 <library name="IsaacAlonso">
 <packages>
 <package name="2X60">
-<pad name="P0" x="-1.27" y="38.1" drill="1.016" diameter="1.651" shape="octagon"/>
-<pad name="P1" x="-1.27" y="35.56" drill="1.016" diameter="1.651" shape="octagon"/>
-<pad name="P2" x="-1.27" y="33.02" drill="1.016" diameter="1.651" shape="octagon"/>
-<pad name="P3" x="-1.27" y="30.48" drill="1.016" diameter="1.651" shape="octagon"/>
-<pad name="P4" x="-1.27" y="27.94" drill="1.016" diameter="1.651" shape="octagon"/>
-<pad name="P5" x="-1.27" y="25.4" drill="1.016" diameter="1.651" shape="octagon"/>
-<pad name="P6" x="-1.27" y="22.86" drill="1.016" diameter="1.651" shape="octagon"/>
-<pad name="P7" x="-1.27" y="20.32" drill="1.016" diameter="1.651" shape="octagon"/>
-<pad name="P8" x="-1.27" y="17.78" drill="1.016" diameter="1.651" shape="octagon"/>
-<pad name="P9" x="-1.27" y="15.24" drill="1.016" diameter="1.651" shape="octagon"/>
-<pad name="P10" x="-1.27" y="12.7" drill="1.016" diameter="1.651" shape="octagon"/>
-<pad name="P11" x="-1.27" y="10.16" drill="1.016" diameter="1.651" shape="octagon"/>
-<pad name="P12" x="-1.27" y="7.62" drill="1.016" diameter="1.651" shape="octagon"/>
-<pad name="P13" x="-1.27" y="5.08" drill="1.016" diameter="1.651" shape="octagon"/>
-<pad name="P14" x="-1.27" y="2.54" drill="1.016" diameter="1.651" shape="octagon"/>
-<pad name="P15" x="-1.27" y="0" drill="1.016" diameter="1.651" shape="octagon"/>
-<pad name="P16" x="-1.27" y="-2.54" drill="1.016" diameter="1.651" shape="octagon"/>
-<pad name="P17" x="-1.27" y="-5.08" drill="1.016" diameter="1.651" shape="octagon"/>
-<pad name="P18" x="-1.27" y="-7.62" drill="1.016" diameter="1.651" shape="octagon"/>
-<pad name="P19" x="-1.27" y="-10.16" drill="1.016" diameter="1.651" shape="octagon"/>
-<pad name="P20" x="-1.27" y="-12.7" drill="1.016" diameter="1.651" shape="octagon"/>
-<pad name="P21" x="-1.27" y="-15.24" drill="1.016" diameter="1.651" shape="octagon"/>
-<pad name="P22" x="-1.27" y="-17.78" drill="1.016" diameter="1.651" shape="octagon"/>
-<pad name="P23" x="-1.27" y="-20.32" drill="1.016" diameter="1.651" shape="octagon"/>
-<pad name="P24" x="-1.27" y="-22.86" drill="1.016" diameter="1.651" shape="octagon"/>
-<pad name="P25" x="-1.27" y="-25.4" drill="1.016" diameter="1.651" shape="octagon"/>
-<pad name="P26" x="-1.27" y="-27.94" drill="1.016" diameter="1.651" shape="octagon"/>
-<pad name="P27" x="-1.27" y="-30.48" drill="1.016" diameter="1.651" shape="octagon"/>
-<pad name="P28" x="-1.27" y="-33.02" drill="1.016" diameter="1.651" shape="octagon"/>
-<pad name="P29" x="-1.27" y="-35.56" drill="1.016" diameter="1.651" shape="octagon"/>
-<pad name="P30" x="1.27" y="-35.56" drill="1.016" diameter="1.651" shape="octagon"/>
-<pad name="P31" x="1.27" y="-33.02" drill="1.016" diameter="1.651" shape="octagon"/>
-<pad name="P32" x="1.27" y="-30.48" drill="1.016" diameter="1.651" shape="octagon"/>
-<pad name="P33" x="1.27" y="-27.94" drill="1.016" diameter="1.651" shape="octagon"/>
-<pad name="P34" x="1.27" y="-25.4" drill="1.016" diameter="1.651" shape="octagon"/>
-<pad name="P35" x="1.27" y="-22.86" drill="1.016" diameter="1.651" shape="octagon"/>
-<pad name="P36" x="1.27" y="-20.32" drill="1.016" diameter="1.651" shape="octagon"/>
-<pad name="P37" x="1.27" y="-17.78" drill="1.016" diameter="1.651" shape="octagon"/>
-<pad name="P38" x="1.27" y="-15.24" drill="1.016" diameter="1.651" shape="octagon"/>
-<pad name="P39" x="1.27" y="-12.7" drill="1.016" diameter="1.651" shape="octagon"/>
-<pad name="P40" x="1.27" y="-10.16" drill="1.016" diameter="1.651" shape="octagon"/>
-<pad name="P41" x="1.27" y="-7.62" drill="1.016" diameter="1.651" shape="octagon"/>
-<pad name="P42" x="1.27" y="-5.08" drill="1.016" diameter="1.651" shape="octagon"/>
-<pad name="P43" x="1.27" y="-2.54" drill="1.016" diameter="1.651" shape="octagon"/>
-<pad name="P44" x="1.27" y="0" drill="1.016" diameter="1.651" shape="octagon"/>
-<pad name="P45" x="1.27" y="2.54" drill="1.016" diameter="1.651" shape="octagon"/>
-<pad name="P46" x="1.27" y="5.08" drill="1.016" diameter="1.651" shape="octagon"/>
-<pad name="P47" x="1.27" y="7.62" drill="1.016" diameter="1.651" shape="octagon"/>
-<pad name="P48" x="1.27" y="10.16" drill="1.016" diameter="1.651" shape="octagon"/>
-<pad name="P49" x="1.27" y="12.7" drill="1.016" diameter="1.651" shape="octagon"/>
-<pad name="P50" x="1.27" y="15.24" drill="1.016" diameter="1.651" shape="octagon"/>
-<pad name="P51" x="1.27" y="17.78" drill="1.016" diameter="1.651" shape="octagon"/>
-<pad name="P52" x="1.27" y="20.32" drill="1.016" diameter="1.651" shape="octagon"/>
-<pad name="P53" x="1.27" y="22.86" drill="1.016" diameter="1.651" shape="octagon"/>
-<pad name="P54" x="1.27" y="25.4" drill="1.016" diameter="1.651" shape="octagon"/>
-<pad name="P55" x="1.27" y="27.94" drill="1.016" diameter="1.651" shape="octagon"/>
-<pad name="P56" x="1.27" y="30.48" drill="1.016" diameter="1.651" shape="octagon"/>
-<pad name="P57" x="1.27" y="33.02" drill="1.016" diameter="1.651" shape="octagon"/>
-<pad name="P58" x="1.27" y="35.56" drill="1.016" diameter="1.651" shape="octagon"/>
-<pad name="P59" x="1.27" y="38.1" drill="1.016" diameter="1.651" shape="octagon"/>
-<wire x1="-2.54" y1="39.37" x2="2.54" y2="39.37" width="0.127" layer="21"/>
-<wire x1="2.54" y1="39.37" x2="2.54" y2="-36.83" width="0.127" layer="21"/>
-<wire x1="2.54" y1="-36.83" x2="-2.54" y2="-36.83" width="0.127" layer="21"/>
-<wire x1="-2.54" y1="-36.83" x2="-2.54" y2="39.37" width="0.127" layer="21"/>
-<rectangle x1="-2.54" y1="-36.83" x2="2.54" y2="39.37" layer="43"/>
+<pad name="P0" x="-1.27" y="36.83" drill="1.016" diameter="1.651" shape="octagon"/>
+<pad name="P1" x="-1.27" y="34.29" drill="1.016" diameter="1.651" shape="octagon"/>
+<pad name="P2" x="-1.27" y="31.75" drill="1.016" diameter="1.651" shape="octagon"/>
+<pad name="P3" x="-1.27" y="29.21" drill="1.016" diameter="1.651" shape="octagon"/>
+<pad name="P4" x="-1.27" y="26.67" drill="1.016" diameter="1.651" shape="octagon"/>
+<pad name="P5" x="-1.27" y="24.13" drill="1.016" diameter="1.651" shape="octagon"/>
+<pad name="P6" x="-1.27" y="21.59" drill="1.016" diameter="1.651" shape="octagon"/>
+<pad name="P7" x="-1.27" y="19.05" drill="1.016" diameter="1.651" shape="octagon"/>
+<pad name="P8" x="-1.27" y="16.51" drill="1.016" diameter="1.651" shape="octagon"/>
+<pad name="P9" x="-1.27" y="13.97" drill="1.016" diameter="1.651" shape="octagon"/>
+<pad name="P10" x="-1.27" y="11.43" drill="1.016" diameter="1.651" shape="octagon"/>
+<pad name="P11" x="-1.27" y="8.89" drill="1.016" diameter="1.651" shape="octagon"/>
+<pad name="P12" x="-1.27" y="6.35" drill="1.016" diameter="1.651" shape="octagon"/>
+<pad name="P13" x="-1.27" y="3.81" drill="1.016" diameter="1.651" shape="octagon"/>
+<pad name="P14" x="-1.27" y="1.27" drill="1.016" diameter="1.651" shape="octagon"/>
+<pad name="P15" x="-1.27" y="-1.27" drill="1.016" diameter="1.651" shape="octagon"/>
+<pad name="P16" x="-1.27" y="-3.81" drill="1.016" diameter="1.651" shape="octagon"/>
+<pad name="P17" x="-1.27" y="-6.35" drill="1.016" diameter="1.651" shape="octagon"/>
+<pad name="P18" x="-1.27" y="-8.89" drill="1.016" diameter="1.651" shape="octagon"/>
+<pad name="P19" x="-1.27" y="-11.43" drill="1.016" diameter="1.651" shape="octagon"/>
+<pad name="P20" x="-1.27" y="-13.97" drill="1.016" diameter="1.651" shape="octagon"/>
+<pad name="P21" x="-1.27" y="-16.51" drill="1.016" diameter="1.651" shape="octagon"/>
+<pad name="P22" x="-1.27" y="-19.05" drill="1.016" diameter="1.651" shape="octagon"/>
+<pad name="P23" x="-1.27" y="-21.59" drill="1.016" diameter="1.651" shape="octagon"/>
+<pad name="P24" x="-1.27" y="-24.13" drill="1.016" diameter="1.651" shape="octagon"/>
+<pad name="P25" x="-1.27" y="-26.67" drill="1.016" diameter="1.651" shape="octagon"/>
+<pad name="P26" x="-1.27" y="-29.21" drill="1.016" diameter="1.651" shape="octagon"/>
+<pad name="P27" x="-1.27" y="-31.75" drill="1.016" diameter="1.651" shape="octagon"/>
+<pad name="P28" x="-1.27" y="-34.29" drill="1.016" diameter="1.651" shape="octagon"/>
+<pad name="P29" x="-1.27" y="-36.83" drill="1.016" diameter="1.651" shape="octagon"/>
+<pad name="P30" x="1.27" y="-36.83" drill="1.016" diameter="1.651" shape="octagon"/>
+<pad name="P31" x="1.27" y="-34.29" drill="1.016" diameter="1.651" shape="octagon"/>
+<pad name="P32" x="1.27" y="-31.75" drill="1.016" diameter="1.651" shape="octagon"/>
+<pad name="P33" x="1.27" y="-29.21" drill="1.016" diameter="1.651" shape="octagon"/>
+<pad name="P34" x="1.27" y="-26.67" drill="1.016" diameter="1.651" shape="octagon"/>
+<pad name="P35" x="1.27" y="-24.13" drill="1.016" diameter="1.651" shape="octagon"/>
+<pad name="P36" x="1.27" y="-21.59" drill="1.016" diameter="1.651" shape="octagon"/>
+<pad name="P37" x="1.27" y="-19.05" drill="1.016" diameter="1.651" shape="octagon"/>
+<pad name="P38" x="1.27" y="-16.51" drill="1.016" diameter="1.651" shape="octagon"/>
+<pad name="P39" x="1.27" y="-13.97" drill="1.016" diameter="1.651" shape="octagon"/>
+<pad name="P40" x="1.27" y="-11.43" drill="1.016" diameter="1.651" shape="octagon"/>
+<pad name="P41" x="1.27" y="-8.89" drill="1.016" diameter="1.651" shape="octagon"/>
+<pad name="P42" x="1.27" y="-6.35" drill="1.016" diameter="1.651" shape="octagon"/>
+<pad name="P43" x="1.27" y="-3.81" drill="1.016" diameter="1.651" shape="octagon"/>
+<pad name="P44" x="1.27" y="-1.27" drill="1.016" diameter="1.651" shape="octagon"/>
+<pad name="P45" x="1.27" y="1.27" drill="1.016" diameter="1.651" shape="octagon"/>
+<pad name="P46" x="1.27" y="3.81" drill="1.016" diameter="1.651" shape="octagon"/>
+<pad name="P47" x="1.27" y="6.35" drill="1.016" diameter="1.651" shape="octagon"/>
+<pad name="P48" x="1.27" y="8.89" drill="1.016" diameter="1.651" shape="octagon"/>
+<pad name="P49" x="1.27" y="11.43" drill="1.016" diameter="1.651" shape="octagon"/>
+<pad name="P50" x="1.27" y="13.97" drill="1.016" diameter="1.651" shape="octagon"/>
+<pad name="P51" x="1.27" y="16.51" drill="1.016" diameter="1.651" shape="octagon"/>
+<pad name="P52" x="1.27" y="19.05" drill="1.016" diameter="1.651" shape="octagon"/>
+<pad name="P53" x="1.27" y="21.59" drill="1.016" diameter="1.651" shape="octagon"/>
+<pad name="P54" x="1.27" y="24.13" drill="1.016" diameter="1.651" shape="octagon"/>
+<pad name="P55" x="1.27" y="26.67" drill="1.016" diameter="1.651" shape="octagon"/>
+<pad name="P56" x="1.27" y="29.21" drill="1.016" diameter="1.651" shape="octagon"/>
+<pad name="P57" x="1.27" y="31.75" drill="1.016" diameter="1.651" shape="octagon"/>
+<pad name="P58" x="1.27" y="34.29" drill="1.016" diameter="1.651" shape="octagon"/>
+<pad name="P59" x="1.27" y="36.83" drill="1.016" diameter="1.651" shape="octagon"/>
+<wire x1="-2.54" y1="38.1" x2="2.54" y2="38.1" width="0.127" layer="21"/>
+<wire x1="2.54" y1="38.1" x2="2.54" y2="-38.1" width="0.127" layer="21"/>
+<wire x1="2.54" y1="-38.1" x2="-2.54" y2="-38.1" width="0.127" layer="21"/>
+<wire x1="-2.54" y1="-38.1" x2="-2.54" y2="38.1" width="0.127" layer="21"/>
+<rectangle x1="-2.54" y1="-38.1" x2="2.54" y2="38.1" layer="43"/>
 </package>
 <package name="CAP">
 <pad name="P-" x="0" y="-2.54" drill="0.8128" diameter="1.651" shape="octagon"/>
@@ -16638,6 +16638,8 @@ Based on the following sources:
 <classes>
 <class number="0" name="default" width="0" drill="0">
 <clearance class="0" value="0.205"/>
+</class>
+<class number="1" name="supply" width="0.381" drill="0">
 </class>
 </classes>
 <parts>
@@ -17728,7 +17730,7 @@ Based on the following sources:
 <pinref part="U$1" gate="G$1" pin="P55"/>
 </segment>
 </net>
-<net name="VCC" class="0">
+<net name="VCC" class="1">
 <segment>
 <pinref part="P+1" gate="VCC" pin="VCC"/>
 <wire x1="38.1" y1="226.06" x2="38.1" y2="223.52" width="0.1524" layer="91"/>
@@ -17799,7 +17801,7 @@ Based on the following sources:
 <pinref part="IC4" gate="G$1" pin="VCC"/>
 </segment>
 </net>
-<net name="GND" class="0">
+<net name="GND" class="1">
 <segment>
 <pinref part="GND1" gate="1" pin="GND"/>
 <wire x1="38.1" y1="205.74" x2="38.1" y2="208.28" width="0.1524" layer="91"/>

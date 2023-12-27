@@ -434,8 +434,8 @@
 <rectangle x1="-2.54" y1="-25.4" x2="2.54" y2="25.4" layer="43"/>
 </package>
 <package name="CAP">
-<pad name="P-" x="0" y="-2.54" drill="0.889" diameter="1.651" shape="octagon"/>
-<pad name="P+" x="0" y="2.54" drill="0.889" diameter="1.651" shape="octagon"/>
+<pad name="P-" x="0" y="-2.54" drill="0.8128" diameter="1.651" shape="octagon"/>
+<pad name="P+" x="0" y="2.54" drill="0.8128" diameter="1.651" shape="octagon"/>
 <wire x1="-1.27" y1="3.81" x2="-1.27" y2="-3.81" width="0.127" layer="21"/>
 <wire x1="-1.27" y1="-3.81" x2="1.27" y2="-3.81" width="0.127" layer="21"/>
 <wire x1="1.27" y1="-3.81" x2="1.27" y2="3.81" width="0.127" layer="21"/>
